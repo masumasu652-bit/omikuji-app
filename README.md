@@ -17,3 +17,11 @@ https://masumasu652-bit.github.io/omikuji-app/
 - HTML
 - CSS
 - JavaScript
+
+## 学んだこと
+
+- getElementById
+- addEventListener
+- if文
+- 配列
+- Math.random
